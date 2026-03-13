@@ -60,4 +60,4 @@ I wrote this script usin knowledge I gained in this lesson. Here, John needs to 
 
 Here is the result of the script:
 
-![image alt](
+![image alt](https://github.com/batihroman/cybernotes/blob/main/Script%20(1).png?raw=true)
