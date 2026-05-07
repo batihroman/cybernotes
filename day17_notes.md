@@ -54,4 +54,10 @@ You can add comments to the script using #.
 They are essential part of every script.
 
 <The Locker Script>
+I wrote this script usin knowledge I gained in this lesson. Here, John needs to authenticate to log in. Script uses name, company name, password authentification. 
 
+![image alt](https://github.com/batihroman/cybernotes/blob/main/Script%20(2).png?raw=true)
+
+Here is the result of the script:
+
+![image alt](https://github.com/batihroman/cybernotes/blob/main/Script%20(1).png?raw=true)
